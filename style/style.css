@@ -81,15 +81,16 @@ footer {
 #home-row-3 {
 		font-size: 25px;
 		font-family:Baskerville Old Face;
-		background-color:#ffffff
-	}
+		background-color:#ffffff;
+}
+
 #home-row-3 .home-hover {
 		overflow: hidden;
 		padding-top: 26px;
 		transition: all ease-in .5s;
 		height:200px;
 		width:300px
-	}
+}
 	
 	
 	
