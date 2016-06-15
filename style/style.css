@@ -33,6 +33,22 @@ padding-left:0px;
 padding-right:600px;
 }
 
+#home-row-2 {
+	padding-top: 25px;
+	font-size: 25px;
+}
+
+#home-row-2 .col-12 .home-row {
+	height: 166px;
+	overlflow: hidden;
+	padding-top: 26px;
+	transition: all ease-in .5s;
+}
+
+#home-row-2 .col-12 .home-row:hover {
+	height: 166px;
+	padding-top: 0;
+}
 
 #myNavbar {
 	font-family:Baskerville Old Face;
@@ -79,17 +95,18 @@ footer {
 }
 	
 #home-row-3 {
-		font-size: 25px;
-		font-family:Baskerville Old Face;
-		background-color:#ffffff
-	}
+	font-size: 25px;
+	font-family:Baskerville Old Face;
+	background-color:#ffffff;
+}
+
 #home-row-3 .home-hover {
-		overflow: hidden;
-		padding-top: 26px;
-		transition: all ease-in .5s;
-		height:200px;
-		width:300px
-	}
+	overflow: hidden;
+	padding-top: 26px;
+	transition: all ease-in .5s;
+	height:200px;
+	width:300px
+}
 	
 	
 	
