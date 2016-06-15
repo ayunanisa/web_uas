@@ -1,36 +1,35 @@
 header {
-	width:1349px;
-	background:url("harga-sepatu-lari-nike.jpg")center;
-	height:643px;
+  width:1349px;
+  background:url("harga-sepatu-lari-nike.jpg")center;
+  height:643px;
 }
 body {
-background-color:#FFFFFF;
-width:1320px;
+  background-color:#FFFFFF;
+  width:1320px;
 }
 
 #page-top{
-	margin:0px;
-	
-	
+  margin:0px;
 }
 
 a {
   background-color: transparent;
   color:#ffffff;
-  }
+}
+
 a:active,
 a:hover {
   outline: 0;
 }
 
 #middle {
-color:#f5f2f2;
-font-size:28px;
-font-family:verdana;
-text-align:center;
-padding-top:250px;
-padding-left:0px;
-padding-right:600px;
+  color:#f5f2f2;
+  font-size:28px;
+  font-family:verdana;
+  text-align:center;
+  padding-top:250px;
+  padding-left:0px;
+  padding-right:600px;
 }
 
 #home-row-2 {
@@ -77,16 +76,18 @@ footer {
 	width:1349px;
 	height:650px;
 }
+
 #slide-23 {
-	background-color:#c0392b;
+	background-color:#2ecc71;
 	color: #e4e6e5;
 	font-size:20px;
 	font-family:Baskerville Old Face;
 	text-align:center;
 	padding-top:90px;
 	height:643px;
-width:1349px
+	width:1349px;
 }
+
 #slide-3 {
 	background-color:#bdc3c7;
 	color:black;
@@ -95,6 +96,7 @@ width:1349px
 	height:650px;
 	width:1349px;
 }
+
 #slide-4 {
 	color:white;
 	font-size:20px;
@@ -117,6 +119,7 @@ width:1349px
 	height:200px;
 	width:300px
 }
+
 #home-row-3 .home-hover:hover {
 	padding-top :0px;
 	padding-right : 25px;
